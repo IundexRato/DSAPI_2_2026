@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS auto_pecas;
+USE auto_pecas;
+
+CREATE TABLE IF NOT EXISTS produtos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(150) NOT NULL,
+    categoria VARCHAR(40) NOT NULL,
+    marca VARCHAR(25) NOT NULL,
+    preco FLOAT NOT NULL
+);
+
