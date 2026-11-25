@@ -1,0 +1,14 @@
+api/pecas/categoria/
+api/pecas/categoria/freios
+
+api/pecas/marca/
+api/pecas/marca/bosch
+
+api/pecas/preco-faixa/
+api/pecas/preco-faixa/?min=50.00&max=250.00
+
+api/pecas/compatilidade/
+api/pecas/compatilidade/?modelo=gol
+
+api/pecas/busca/
+api/pecas/busca/?q=[nome] ou [sku]

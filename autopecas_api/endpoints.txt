@@ -1,0 +1,17 @@
+todos os 10 endpoints
+
+1. api/pecas     POST
+2. api/pecas     GET
+3. api/pecas/1   PUT
+4. api/pecas/1   DELETE
+
+5. api/pecas/1 GET by ID
+
+6. api/pecas/categoria/
+7. api/pecas/marca/
+8. api/pecas/preco-faixa/
+9. api/pecas/busca/
+10. api/pecas/compatilidade/
+
+
+
